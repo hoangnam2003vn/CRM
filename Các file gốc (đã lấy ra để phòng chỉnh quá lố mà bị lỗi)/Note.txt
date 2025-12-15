@@ -1,0 +1,1 @@
+App.js: lay ra de demo lai Frontend phan digtal twin, trong du an khong con lop bao ve giua cac trang (chuyen sang trang nay qua trang khac) nen de demo hon
